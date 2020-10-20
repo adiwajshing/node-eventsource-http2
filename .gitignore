@@ -62,3 +62,4 @@ typings/
 tsconfig.tsbuildinfo
 
 lib
+yarn.lock
